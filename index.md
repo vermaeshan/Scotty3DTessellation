@@ -57,9 +57,11 @@ multiplication
 
 ## Outputs
 
-![t](https://github.com/vermaeshan/Scotty3DTessellation/blob/master/images/op.png?raw=true)
+![t](https://github.com/vermaeshan/Scotty3DTessellation/blob/master/images/trigs.gif?raw=true)
 
-![t](https://github.com/vermaeshan/Scotty3DTessellation/blob/master/images/triangle.png?raw=true)
+![t](https://github.com/vermaeshan/Scotty3DTessellation/blob/master/images/torus.gif?raw=true)
+
+![t](https://github.com/vermaeshan/Scotty3DTessellation/blob/master/images/grid.gif?raw=true)
 
 ## User Guide
 1. For PN Triangle Tessellation, Press E.

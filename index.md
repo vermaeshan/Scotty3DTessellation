@@ -83,6 +83,7 @@ NOTE: Specific ordering needs to be maintained for Edge::newTessPosition1/2, the
 Finally, since each triangle is subdivided in to 9 triangles, we need to associate each new face with the corresponding new vertices. This is probably the most tricky bit of this implementation. Specific ordering of the edges needs to be made for each new traingle so that rebuild() can function correctly.
 
 New helper functions implemented:
+
 ### PN Triangle
 1. Vector3D HalfedgeMesh::getPosition(...)
 Given a point P, gets it barycentric coordinates, and given the control points(b*), extrapulates the poistion of the point.
